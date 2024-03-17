@@ -1,4 +1,4 @@
-# AI Language Models Overview
+# Comparison of LLM Specifications
 
 ## Introduction
 Welcome to this comprehensive overview of the current landscape of AI language models. This document is designed to be a living resource that captures the specifications and release details of various large-scale language models developed by leading technology companies.
@@ -17,7 +17,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 
 ---
 
-# Comparison-of-LLM-Specifications
+# Table
 | Company    | Model              | Parameters Size           | Structure           | Training Data (Date) | Output Token | context window         | Type       | Release Date |
 |------------|--------------------|---------------------------|---------------------|----------------------|--------------|------------------------|------------|--------------|
 | OpenAI     | GPT-3.5            | 20B                       | Transformer         | 45T tokens(~2021/09)       | 4,096        | 4k~16k                 | close      | 2022/3/15    |
