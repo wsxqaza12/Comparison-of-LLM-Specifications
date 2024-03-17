@@ -133,7 +133,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
     - [DR ALAN D. THOMPSON](https://lifearchitect.substack.com/p/the-memo-special-edition-claude-3)
   - Output Token: 4,096
     - [Anthropic Documentation](https://docs.anthropic.com/claude/docs/models-overview)
-  - context window: 200K
+  - Context Window: 200K
     - [Anthropic Documentation](https://docs.anthropic.com/claude/docs/models-overview)
   - Type: close
   - Release Date: 2024/3/4
@@ -146,7 +146,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
     - [llama blog](https://llama.meta.com/llama2/)
   - Output Token: 4,096?
     - [Hugging Face](https://huggingface.co/docs/transformers/v4.38.2/en/model_doc/llama2#transformers.LlamaModel)
-  - context window: 4,096
+  - Context Window: 4,096
     - [llama blog](https://llama.meta.com/llama2/)
   - Type: open source
     - [Hugging Face](https://huggingface.co/meta-llama)
@@ -155,33 +155,33 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 ### Mistral AI
 - **Mistral (Tiny)**
   - Parameters Size: 7B
-    - [Link](#)
   - Structure: Transformer
   - Training Data (Date): ?
-    - [Link](#)
   - Output Token: ?
-  - context window: 32k
+  - Context Window: 32k
+    - [Hugging Face](https://huggingface.co/amazon/MistralLite)
   - Type: open source
+    - [Hugging Face](https://huggingface.co/mistralai)
   - Release Date: 2023/9/27
 
 - **Mixtral 8x7B (Small)**
   - Parameters Size: 45B(use 12B)
-    - [Link](#)
   - Structure: SMoE (8 experts)
+    - [Mistral news](https://mistral.ai/news/mixtral-of-experts/)
   - Training Data (Date): ?
-    - [Link](#)
   - Output Token: ?
-  - context window: 32k
+  - Context Window: 32k
+    - [Mistral news](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2401.04088.pdf)
   - Type: open source
+    - [Hugging Face](https://huggingface.co/mistralai)
   - Release Date: 2023/12/11
 
 - **Mistral**
   - Parameters Size: Medium, Large
-    - [Link](#)
   - Structure: ?
   - Training Data (Date): ?
-    - [Link](#)
   - Output Token: ?
   - context window: 32k
+    - [Mistral news](https://mistral.ai/news/mistral-large/)
   - Type: close
   - Release Date: 2024/2/26
