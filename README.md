@@ -10,12 +10,10 @@ In this section, we delve into each company's contributions to the field of AI l
 
 Understanding these details is crucial for anyone interested in the technical aspects of AI development or looking to leverage these models for various applications.
 
-## Contributions
-The world of AI is ever-evolving, and keeping this document up to date is a community effort. Whether you have corrections, updates, or new information, your contributions are invaluable to ensure the accuracy and completeness of this resource.
+## Data Integrity and Contributions
+In the fast-paced domain of AI, information can quickly become outdated. To maintain the integrity of this repository, we rigorously source and verify any uncertain data before inclusion. Every piece of information is accompanied by a citation linking to its source, ensuring transparency and reliability.
 
-Please feel free to submit pull requests with your updates or open an issue if you have questions or suggestions for improvement. Let's collaborate to make this a definitive resource for everyone interested in the progress of AI language models!
-
-We welcome and appreciate contributions from all members of the AI and tech community.
+Your insights and updates are crucial to the resource's vitality. We invite you to contribute by submitting pull requests with verifiable information or by flagging any discrepancies you may encounter. Open an issue to discuss potential changes or to seek clarification on existing data.
 
 ---
 
@@ -40,68 +38,76 @@ We welcome and appreciate contributions from all members of the AI and tech comm
 ### OpenAI
 - **GPT-3.5**
   - Parameters Size: 20B?
-    - [Link](https://community.openai.com/t/how-many-parameters-does-gpt-3-5-have/648417/4)
+    - [OpenAI Community](https://community.openai.com/t/how-many-parameters-does-gpt-3-5-have/648417/4)
   - Structure: Transformer
-  - Training Data (Date): 45T (~2021/09)
-    - [Link](https://community.openai.com/t/what-is-the-size-of-the-training-set-for-gpt-3/360896)
+  - Training Data (Date): 45T (~2021/09)?
+    - [OpenAI Community](https://community.openai.com/t/what-is-the-size-of-the-training-set-for-gpt-3/360896)
   - Output Token: 4,096
-  - context window: 4k~16k
+    - [OpenAI Documentation](https://platform.openai.com/docs/models/gpt-3-5-turbo) 
+  - Context Window: 4k~16k
+    - [OpenAI Documentation](https://platform.openai.com/docs/models/gpt-3-5-turbo) 
   - Type: close
   - Release Date: 2022/3/15
 
 - **GPT-4**
-  - Parameters Size: 8*220B (Plus, Team, Enterprise)
-    - [Link](#)
+  - Parameters Size: 8*220B? (Plus, Team, Enterprise)
+    - [X-Soumith Chintala](https://twitter.com/soumithchintala/status/1671267150101721090?s=46&t=dUCVh9akIWxxNUIkrDJwJg)
   - Structure: MoE (8 experts)
+    - [semianalysis](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)
   - Training Data (Date): ?
-    - [Link](#)
   - Output Token: 4,096
-  - context window: 32k (Plus, Team) 128K(Enterprise)
+    - [OpenAI Documentation](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo)
+  - Context Window: 32k (Plus, Team) 128K(Enterprise)
+    - [OpenAI Documentation](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo)
   - Type: close
   - Release Date: 2023/4/4
 
 ### Google
 - **PaLM 2**
-  - Parameters Size: 340B (Unicorn, Bison, Otter, Gecko)
-    - [Link](#)
+  - Parameters Size: 340B? (Unicorn, Bison, Otter, Gecko)
+    - [Sundar Pichai](https://www.cnbc.com/2023/05/16/googles-palm-2-uses-nearly-five-times-more-text-data-than-predecessor.html)
   - Structure: Transformer
-  - Training Data (Date): 3.6T (~2023/8)
-    - [Link](#)
+  - Training Data (Date): 3.6T (~2023/8)?
+    - [Sundar Pichai](https://www.cnbc.com/2023/05/16/googles-palm-2-uses-nearly-five-times-more-text-data-than-predecessor.html)
   - Output Token: 1024~8192
-  - context window: 8K~32K
+    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+  - Context Window: 8K~32K
+    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - Type: close
   - Release Date: 2023/5/10
 
 - **Gemma**
   - Parameters Size: 2B, 7B
-    - [Link](#)
   - Structure: Transformer
   - Training Data (Date): 2T, 6T tokens
-    - [Link](#)
+    - [Link](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
   - Output Token: ?
   - context window: 8K
+    - [Link](https://aws.amazon.com/tw/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/)
   - Type: open source
+    - [Link](https://huggingface.co/google)
   - Release Date: 2024/2/21
 
 - **Gemini 1.0**
   - Parameters Size: Nano1(1.8B), Nano2(3.3B), Pro, Ultra
-    - [Link](#)
   - Structure: Transformer
   - Training Data (Date): ?
-    - [Link](#)
   - Output Token: 2,048
+    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - context window: 8K
+    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - Type: close
   - Release Date: 2024/2/8
 
 - **Gemini 1.5**
   - Parameters Size: Pro
-    - [Link](#)
   - Structure: MoE
+    - [Link](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#gemini-15)
   - Training Data (Date): ?
-    - [Link](#)
   - Output Token: 8,192
+    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - context window: 128k~1m
+    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - Type: close
   - Release Date: 2024/2/15
 
