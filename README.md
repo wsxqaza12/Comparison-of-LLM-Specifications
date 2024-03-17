@@ -70,9 +70,9 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Training Data (Date): 3.6T (~2023/8)?
     - [Sundar Pichai](https://www.cnbc.com/2023/05/16/googles-palm-2-uses-nearly-five-times-more-text-data-than-predecessor.html)
   - Output Token: 1024~8192
-    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+    - [Google Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - Context Window: 8K~32K
-    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+    - [Google Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - Type: close
   - Release Date: 2023/5/10
 
@@ -80,12 +80,12 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Parameters Size: 2B, 7B
   - Structure: Transformer
   - Training Data (Date): 2T, 6T tokens
-    - [Link](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
+    - [DeepMind Report](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
   - Output Token: ?
-  - context window: 8K
-    - [Link](https://aws.amazon.com/tw/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/)
+  - Context Window: 8K
+    - [Amazon Blog](https://aws.amazon.com/tw/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/)
   - Type: open source
-    - [Link](https://huggingface.co/google)
+    - [Hugging Face](https://huggingface.co/google)
   - Release Date: 2024/2/21
 
 - **Gemini 1.0**
@@ -93,57 +93,63 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Structure: Transformer
   - Training Data (Date): ?
   - Output Token: 2,048
-    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
-  - context window: 8K
-    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+    - [Google Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+  - Context Window: 8K
+    - [Google Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - Type: close
   - Release Date: 2024/2/8
 
 - **Gemini 1.5**
   - Parameters Size: Pro
   - Structure: MoE
-    - [Link](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#gemini-15)
+    - [Google Blog](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#gemini-15)
   - Training Data (Date): ?
   - Output Token: 8,192
-    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
-  - context window: 128k~1m
-    - [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+    - [Google Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
+  - Context Window: 128k~1m
+    - [Google Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models)
   - Type: close
   - Release Date: 2024/2/15
 
 ### Anthropic
 - **Claude 2.1**
-  - Parameters Size: 200B
-    - [Link](#)
+  - Parameters Size: 200B?
+    - [claudeai](https://claudeai.uk/anthropic-introduces-claude-2-1-with-200k-context/#google_vignette)
   - Structure: Evolved Transformer
-  - Training Data (Date): ? (~Early, 2023)
-    - [Link](#)
+  - Training Data (Date): ? (~2023/Early)
+    - [Anthropic Documentation](https://docs.anthropic.com/claude/docs/models-overview)
   - Output Token: 4,096
-  - context window: 200K
+    - [Anthropic Documentation](https://docs.anthropic.com/claude/docs/models-overview)
+  - Context Window: 200K
+    - [Anthropic Documentation](https://docs.anthropic.com/claude/docs/models-overview)
   - Type: close
   - Release Date: 2023/11/21
 
 - **Claude 3**
-  - Parameters Size: 20B, 70B, 2T (Haiku, Sonnet, Opus)
-    - [Link](#)
+  - Parameters Size: 20B, 70B, 2T (Haiku, Sonnet, Opus)?
+    - [DR ALAN D. THOMPSON](https://lifearchitect.substack.com/p/the-memo-special-edition-claude-3)
   - Structure: Sparse Transformer
-  - Training Data (Date): 40T tokens(~2023/8)
-    - [Link](#)
+  - Training Data (Date): 40T tokens(~2023/8)?
+    - [DR ALAN D. THOMPSON](https://lifearchitect.substack.com/p/the-memo-special-edition-claude-3)
   - Output Token: 4,096
+    - [Anthropic Documentation](https://docs.anthropic.com/claude/docs/models-overview)
   - context window: 200K
+    - [Anthropic Documentation](https://docs.anthropic.com/claude/docs/models-overview)
   - Type: close
   - Release Date: 2024/3/4
 
 ### Meta
 - **Llama2**
   - Parameters Size: 7B, 13B, 70B
-    - [Link](#)
   - Structure: Transformer
   - Training Data (Date): 2T tokens
-    - [Link](#)
-  - Output Token: 4096
+    - [llama blog](https://llama.meta.com/llama2/)
+  - Output Token: 4,096?
+    - [Hugging Face](https://huggingface.co/docs/transformers/v4.38.2/en/model_doc/llama2#transformers.LlamaModel)
   - context window: 4,096
+    - [llama blog](https://llama.meta.com/llama2/)
   - Type: open source
+    - [Hugging Face](https://huggingface.co/meta-llama)
   - Release Date: 2023/7/18
 
 ### Mistral AI
