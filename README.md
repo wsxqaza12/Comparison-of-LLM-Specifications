@@ -1,9 +1,9 @@
 # Comparison of LLM Specifications
 
 ## Introduction
-Welcome to this comprehensive overview of the current landscape of AI language models. This document is designed to be a living resource that captures the specifications and release details of various large-scale language models developed by leading technology companies.
+Welcome to our exploratory overview of the AI language model landscape. This document is intended as a collaborative resource, offering a broad comparison of large-scale language models developed by leading technology firms.
 
-The aim is to provide a centralized, up-to-date comparison of these models, which range from OpenAI's GPT series to Google's offerings and beyond. For researchers, developers, and enthusiasts, this comparison serves as a quick reference to understand the capabilities, structures, and unique features of each model.
+Our goal is to present a centralized, continually updated comparison, primarily focusing on the major models from entities like OpenAI's GPT series to Google's contributions, among others. We aim to assist researchers, developers, and enthusiasts in gaining a general understanding of the capabilities, structures, and distinct characteristics of each major model. It's important to note that this comparison will not delve into the finer details or specific versions of each model, but rather highlight the overarching features and developments in the field.
 
 ## Language Models
 In this section, we delve into each company's contributions to the field of AI language models. We outline the models they have released, specifying parameters such as model size, underlying structures, training data, token output capacity, context window, type (whether open source or closed source), and release dates.
