@@ -6,9 +6,7 @@ Welcome to our exploratory overview of the AI language model landscape. This doc
 Our goal is to present a centralized, continually updated comparison, primarily focusing on the major models from entities like OpenAI's GPT series to Google's contributions, among others. We aim to assist researchers, developers, and enthusiasts in gaining a general understanding of the capabilities, structures, and distinct characteristics of each major model. It's important to note that this comparison will not delve into the finer details or specific versions of each model, but rather highlight the overarching features and developments in the field.
 
 ## Language Models
-In this section, we delve into each company's contributions to the field of AI language models. We outline the models they have released, specifying parameters such as model size, underlying structures, training data, token output capacity, context window, type (whether open source or closed source), and release dates.
-
-Understanding these details is crucial for anyone interested in the technical aspects of AI development or looking to leverage these models for various applications.
+We explore each company's AI language models, outlining key specs like model size, architecture, training data, output capacity, context window, and type (open or closed source), along with release dates. This guide aims to clear up any confusion regarding model specifications, providing a straightforward comparison to navigate through the complexity of these models.
 
 ## Data Integrity and Contributions
 In the fast-paced domain of AI, information can quickly become outdated. To maintain the integrity of this repository, we rigorously source and verify any uncertain data before inclusion. Every piece of information is accompanied by a citation linking to its source, ensuring transparency and reliability.
