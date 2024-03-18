@@ -183,3 +183,16 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
     - [Mistral news](https://mistral.ai/news/mistral-large/)
   - Type: close
   - Release Date: 2024/2/26
+
+
+# Other LLM Comparisons
+
+## Model Specifications and Performance Scores
+
+For a detailed comparison of various Large Language Models (LLMs) in terms of their specifications and performance scores, see the following resource:
+
+- **LLM Comparison/Test by Wolfram Ravenwolf**: This comparison includes 17 new models, totaling 64 ranked models in the Gembo v0 series.
+  - [Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1b5vp2e/llm_comparisontest_17_new_models_64_total_ranked/)
+  - [Chart](https://huggingface.co/datasets/ChuckMcSneed/WolframRavenwolfs_benchmark_results)
+- **Local LLM Comparison Colab UI**: Compare the performance of different LLM that can be deployed locally on consumer hardware.
+  - [Github](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI)
