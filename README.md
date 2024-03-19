@@ -184,6 +184,16 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Type: close
   - Release Date: 2024/2/26
 
+### xAI
+- **Grok-1**
+  - Parameters Size: 314B(use 79B)
+  - Structure: MoE (8 experts)
+  - Training Data (Date): ?
+  - Output Token: ?
+  - Context Window: 8k
+  - Type: open source
+    - [Github](https://github.com/xai-org/grok-1)
+  - Release Date: 2024/3/17
 
 # Other LLM Comparisons
 
