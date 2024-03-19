@@ -26,11 +26,11 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |            | Gemini 1.5         | Pro                        | MoE                 | ?                    | 8,192        | 128k~1m                | close      | 2024/2/15   |
 | Anthropic  | Claude 2.1         | 200B                       | Evolved Transformer | ? (~2023/Early)     | 4,096        | 200K                   | close      | 2023/11/21  |
 |            | Claude 3           | 20B, 70B, 2T (Haiku, Sonnet, Opus ) | Sparse Transformer | 40T tokens(~2023/8) | 4,096   | 200K                | close      | 2024/3/4    |
-| Meta       | Llama2             | 7B, 13B, 70B               | Transformer         | 2T tokens            | 4,096         | 4,096                  | open source | 2023/7/18 |
+| Meta       | Llama2             | 7B, 13B, 70B               | Transformer         | 2T tokens            | 4,096        | 4,096                  | open source | 2023/7/18 |
 | Mistral AI | Mistral (Tiny)     | 7B                         | Transformer         | ?                    | ?            | 32k                    | open source | 2023/9/27 |
 |            | Mixtral 8x7B (Small) | 45B(use 12B)             | SMoE (8 experts)    | ?                    | ?            | 32k                    | open source | 2023/12/11 |
-|            | Mistral            | Medium, Large              | ?                   | ?                    | ?            | 32k                    | close      | 2024/2/26   |
-
+|            | Mistral            | Medium, Large              | ?                   | ?                    | ?            | 32k                    | close       | 2024/2/26   |
+|xAI         | Grok-1             | 314B                       | MoE (8 experts)     | ?                    | ?            | 8k                     | open source | 2024/3/17   |
 
 # Details and Rumor sources
 ### OpenAI
