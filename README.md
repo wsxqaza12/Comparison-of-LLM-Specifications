@@ -31,6 +31,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |            | Mixtral 8x7B (Small) | 45B(use 12B)             | SMoE (8 experts)    | ?                    | ?            | 32k                    | open source | 2023/12/11 |
 |            | Mistral            | Medium, Large              | ?                   | ?                    | ?            | 32k                    | close       | 2024/2/26   |
 |xAI         | Grok-1             | 314B                       | MoE (8 experts)     | ?                    | ?            | 8k                     | open source | 2024/3/17   |
+|Apple       | MM1                | 3B, 7B, 30B                | MoE (3B:64 experts, 7B-32 experts)     | ? (Have quantity) | ?            | ?                     | close | 2024/3/18   |
 
 # Details and Rumor sources
 ### OpenAI
@@ -194,6 +195,21 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Type: open source
     - [Github](https://github.com/xai-org/grok-1)
   - Release Date: 2024/3/17
+
+### Apple
+- **MM1**
+  - Parameters Size: 3B, 7B, 30B
+  - Structure: MoE (3B:64 experts, 7B-32 experts)   
+  - Training Data (Date): ?
+    - Captioned Images: 2B image-text pairs
+    - Captioned Images (Synthetic): 300M image-text pairs
+    - Interleaved Image-Text: 600M documents
+    - Text-only: 2T tokens
+  - Output Token: ?
+  - Context Window: ?
+  - Type: open clode
+  - Release Date: 2024/3/18
+
 
 # Other LLM Comparisons
 
