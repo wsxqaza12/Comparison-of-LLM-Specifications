@@ -14,6 +14,7 @@ In the fast-paced domain of AI, information can quickly become outdated. To main
 Your insights and updates are crucial to the resource's vitality. We invite you to contribute by submitting pull requests with verifiable information or by flagging any discrepancies you may encounter. Open an issue to discuss potential changes or to seek clarification on existing data.
 
 ---
+<img src = "https://github.com/wsxqaza12/Comparison-of-LLM-Specifications/blob/main/poster/poster_March.png" width ="400" />
 
 # Table
 | Company    | Model              | Parameters Size           | Structure           | Training Data (Date) | Output Token | context window         | Type       | Release Date |
