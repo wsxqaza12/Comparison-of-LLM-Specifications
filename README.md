@@ -141,7 +141,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Release Date: 2024/3/4
 
 ### Meta
-- **Llama2**
+- **Llama 2**
   - Parameters Size: 7B, 13B, 70B
   - Structure: Transformer
   - Training Data (Date): 2T tokens
@@ -153,6 +153,18 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Type: open source
     - [Hugging Face](https://huggingface.co/meta-llama)
   - Release Date: 2023/7/18
+- **Llama 3**
+  - Parameters Size: 8B, 70B, 400B
+  - Structure: Transformer
+  - Training Data (Date): 15T tokens (8B: ~2023/3, 70B: ~2023/12)
+    - [meta](https://llama.meta.com/llama3/)
+  - Output Token: 8,192
+    - [Hugging Face](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct/discussions/12)
+  - Context Window: 8,192
+    - [meta](https://llama.meta.com/llama3/)
+  - Type: open source
+    - [Hugging Face](https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6)
+  - Release Date: 2024/4/18
 
 ### Mistral AI
 - **Mistral (Tiny)**
