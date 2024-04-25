@@ -1,4 +1,4 @@
-![image](https://github.com/wsxqaza12/Comparison-of-LLM-Specifications/assets/22383967/878ea693-d06c-4ff2-986a-94885bb70066)# Comparison of LLM Specifications
+# Comparison of LLM Specifications
 
 ## Introduction
 Welcome to our exploratory overview of the AI language model landscape. This document is intended as a collaborative resource, offering a broad comparison of large-scale language models developed by leading technology firms.
