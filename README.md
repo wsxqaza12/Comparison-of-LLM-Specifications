@@ -210,7 +210,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
     - Text-only: 2T tokens
   - Output Token: ?
   - Context Window: ?
-  - Type: open clode
+  - Type: close
   - Release Date: 2024/3/18
 
 
