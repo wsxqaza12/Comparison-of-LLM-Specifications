@@ -1,4 +1,4 @@
-# Comparison of LLM Specifications
+![image](https://github.com/wsxqaza12/Comparison-of-LLM-Specifications/assets/22383967/d459d391-e9a6-4b38-9eb7-91bb1152bde4)# Comparison of LLM Specifications
 
 ## Introduction
 Welcome to our exploratory overview of the AI language model landscape. This document is intended as a collaborative resource, offering a broad comparison of large-scale language models developed by leading technology firms.
@@ -35,7 +35,8 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |            | Mistral 8x22B      | 141B(use 39B)              | SMoE (8 experts)    | ?                    | ?            | 64k                    | open source | 2024/4/10   |
 |xAI         | Grok-1             | 314B                       | MoE (8 experts)     | ?                    | ?            | 8k                     | open source | 2024/3/17   |
 |Apple       | MM1                | 3B, 7B, 30B                | MoE (3B:64 experts, 7B-32 experts)     | ? (Have quantity) | ?            | ?                     | close | 2024/3/18   |
-|Snowflake   | Arctic             | 480B(use 17B)              | Dense-MoE (128 experts) | 3.5T                    | ?            | ?                     | open source | 2024/4/25   |
+|Snowflake   | Arctic             | 480B(use 17B)              | Dense-MoE (128 experts) | 3.5T                    | ?            | 4k                     | open source | 2024/4/25   |
+|Cohere      | Command R+         | 104B                       | Dense                   | ?                       | ?            | 128K                     | open source | 2024/4/4   |
 
 # Details and Rumor sources
 ### OpenAI
@@ -243,9 +244,20 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Structure: Dense-MoE (128 experts)
   - Training Data (Date): 3.5T
   - Output Token: ?
-  - Context Window: ?
+  - Context Window: 4K
+    - [huggingface](https://huggingface.co/Snowflake/snowflake-arctic-instruct/discussions/5)
   - Type: open source
   - Release Date: 2024/4/25
+ 
+### Cohere
+- **Command R+**
+  - Parameters Size: 104B
+  - Structure: Dense
+  - Training Data (Date): ?
+  - Output Token: ?
+  - Context Window: 128K
+  - Type: open source
+  - Release Date: 2024/4/4
 
 # Other LLM Comparisons
 
