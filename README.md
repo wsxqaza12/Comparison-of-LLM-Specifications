@@ -239,6 +239,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 ### Snowflake
 - **Arctic**
   - Parameters Size: 480B (use 17B)
+    - [snowflake](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/)
   - Structure: Dense-MoE (128 experts)
   - Training Data (Date): 3.5T
   - Output Token: ?
