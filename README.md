@@ -1,4 +1,4 @@
-# Comparison of LLM Specifications
+![image](https://github.com/wsxqaza12/Comparison-of-LLM-Specifications/assets/22383967/44c034e2-7589-4964-ae4e-f4937ca5b39d)# Comparison of LLM Specifications
 
 ## Introduction
 Welcome to our exploratory overview of the AI language model landscape. This document is intended as a collaborative resource, offering a broad comparison of large-scale language models developed by leading technology firms.
@@ -35,7 +35,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |            | Mistral 8x22B      | 141B(use 39B)              | SMoE (8 experts)    | ?                    | ?            | 64k                    | open source | 2024/4/10   |
 |xAI         | Grok-1             | 314B                       | MoE (8 experts)     | ?                    | ?            | 8k                     | open source | 2024/3/17   |
 |Apple       | MM1                | 3B, 7B, 30B                | MoE (3B:64 experts, 7B-32 experts)     | ? (Have quantity) | ?            | ?                     | close | 2024/3/18   |
-
+|Snowflake   | Arctic             | 500B(use 17B)              | Dense-MoE           | ?                    | ?            | ?                     | open source | 2024/4/25   |
 
 # Details and Rumor sources
 ### OpenAI
@@ -235,7 +235,16 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
   - Context Window: ?
   - Type: close
   - Release Date: 2024/3/18
-
+  - 
+### Snowflake
+- **Arctic**
+  - Parameters Size: 500B (use 17B)
+  - Structure: Dense-MoE
+  - Training Data (Date): ?
+  - Output Token: ?
+  - Context Window: ?
+  - Type: open source
+  - Release Date: 2024/4/25
 
 # Other LLM Comparisons
 
