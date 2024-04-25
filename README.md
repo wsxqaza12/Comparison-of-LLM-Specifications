@@ -28,11 +28,13 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 | Anthropic  | Claude 2.1         | 200B                       | Evolved Transformer | ? (~2023/Early)     | 4,096        | 200K                   | close      | 2023/11/21  |
 |            | Claude 3           | 20B, 70B, 2T (Haiku, Sonnet, Opus ) | Sparse Transformer | 40T tokens(~2023/8) | 4,096   | 200K                | close      | 2024/3/4    |
 | Meta       | Llama2             | 7B, 13B, 70B               | Transformer         | 2T tokens            | 4,096        | 4,096                  | open source | 2023/7/18 |
+| Meta       | Llama3             | 8B, 70B, 400B              | Transformer         | 15T tokens ~8B: 2023/3 ~70B: 2023/12   | 8,192  | 8,192      | open source | 2024/4/18 |
 | Mistral AI | Mistral (Tiny)     | 7B                         | Transformer         | ?                    | ?            | 32k                    | open source | 2023/9/27 |
 |            | Mixtral 8x7B (Small) | 45B(use 12B)             | SMoE (8 experts)    | ?                    | ?            | 32k                    | open source | 2023/12/11 |
 |            | Mistral            | Medium, Large              | ?                   | ?                    | ?            | 32k                    | close       | 2024/2/26   |
 |xAI         | Grok-1             | 314B                       | MoE (8 experts)     | ?                    | ?            | 8k                     | open source | 2024/3/17   |
 |Apple       | MM1                | 3B, 7B, 30B                | MoE (3B:64 experts, 7B-32 experts)     | ? (Have quantity) | ?            | ?                     | close | 2024/3/18   |
+
 
 # Details and Rumor sources
 ### OpenAI
