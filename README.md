@@ -1,4 +1,4 @@
-# Comparison of LLM Specifications
+![image](https://github.com/wsxqaza12/Comparison-of-LLM-Specifications/assets/22383967/878ea693-d06c-4ff2-986a-94885bb70066)# Comparison of LLM Specifications
 
 ## Introduction
 Welcome to our exploratory overview of the AI language model landscape. This document is intended as a collaborative resource, offering a broad comparison of large-scale language models developed by leading technology firms.
@@ -32,6 +32,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 | Mistral AI | Mistral (Tiny)     | 7B                         | Transformer         | ?                    | ?            | 32k                    | open source | 2023/9/27 |
 |            | Mixtral 8x7B (Small) | 45B(use 12B)             | SMoE (8 experts)    | ?                    | ?            | 32k                    | open source | 2023/12/11 |
 |            | Mistral            | Medium, Large              | ?                   | ?                    | ?            | 32k                    | close       | 2024/2/26   |
+|            | Mistral 8x22B      | 141B(use 39B)              | SMoE (8 experts)    | ?                    | ?            | 64k                    | open source | 2024/4/10   |
 |xAI         | Grok-1             | 314B                       | MoE (8 experts)     | ?                    | ?            | 8k                     | open source | 2024/3/17   |
 |Apple       | MM1                | 3B, 7B, 30B                | MoE (3B:64 experts, 7B-32 experts)     | ? (Have quantity) | ?            | ?                     | close | 2024/3/18   |
 
@@ -199,6 +200,16 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
     - [Mistral news](https://mistral.ai/news/mistral-large/)
   - Type: close
   - Release Date: 2024/2/26
+ 
+- **Mixtral 8x22B**
+  - Parameters Size: 141B (use 39B)
+  - Structure: SMoE (8 experts)
+  - Training Data (Date): ?
+  - Output Token: ?
+  - context window: 64k
+    - [Mistral news](https://mistral.ai/news/mixtral-8x22b/)
+  - Type: open source
+  - Release Date: 2024/4/10
 
 ### xAI
 - **Grok-1**
