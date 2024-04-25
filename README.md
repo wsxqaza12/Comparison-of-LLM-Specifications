@@ -252,11 +252,13 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 ### Cohere
 - **Command R+**
   - Parameters Size: 104B
+    - [cohere](https://cohere.com/blog/command-r-plus-microsoft-azure)
   - Structure: Dense
   - Training Data (Date): ?
   - Output Token: ?
   - Context Window: 128K
   - Type: open source
+    - [huggingface](https://huggingface.co/CohereForAI/c4ai-command-r-plus)
   - Release Date: 2024/4/4
 
 # Other LLM Comparisons
