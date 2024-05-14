@@ -21,6 +21,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |------------|--------------------|---------------------------|---------------------|----------------------|--------------|------------------------|------------|--------------|
 | OpenAI     | GPT-3.5            | 20B                       | Transformer         | 45T tokens(~2021/09)       | 4,096        | 4k~16k                 | close      | 2022/3/15    |
 |            | GPT-4              | 8*220B (Plus, Team, Enterprise) | MoE (8 experts) | ?                  | 4,096        | 32k (Plus, Team) 128K(Enterprise) | close | 2023/4/4  |
+|            | GPT-4o             |  |  |  |  | | close | 2024/5/13  |
 | Google     | PaLM 2             | 340B (Unicorn, Bison, Otter, Gecko) | Transformer | 3.6T tokens(~2023/8)   | 1024~8192    | 8K~32K                 | close      | 2023/5/10    |
 |            | Gemma              | 2B, 7B                     | Transformer         | 2T, 6T tokens        | ?            | 8K                     | open source | 2024/2/21 |
 |            | Gemini 1.0         | Nano1(1.8B), Nano2(3.3B), Pro, Ultra | Transformer | ?                 | 2,048        | 8K                     | close      | 2024/2/8    |
