@@ -38,6 +38,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |Apple       | MM1                | 3B, 7B, 30B                | MoE (3B:64 experts, 7B-32 experts)     | ? (Have quantity) | ?            | ?                     | close | 2024/3/18   |
 |Snowflake   | Arctic             | 480B(use 17B)              | Dense-MoE (128 experts) | 3.5T                    | ?            | 4k                     | open source | 2024/4/25   |
 |Cohere      | Command R+         | 104B                       | Dense                   | ?                       | ?            | 128K                     | open source | 2024/4/4   |
+|Microsoft   | phi-3-mini         | 3.8B                       | Dense                   | 3.3T                    | ?            | 4K, 128K                 | open source | 2024/4/24   |
 
 # Details and Rumor sources
 ### OpenAI
