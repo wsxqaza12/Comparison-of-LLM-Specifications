@@ -23,7 +23,8 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |            | GPT-4              | 8*220B (Plus, Team, Enterprise) | MoE (8 experts) | ?                  | 4,096        | 32k (Plus, Team) 128K(Enterprise) | close | 2023/4/4  |
 |            | GPT-4o             | over 175B |  |  |  | | close | 2024/5/13  |
 | Google     | PaLM 2             | 340B (Unicorn, Bison, Otter, Gecko) | Transformer | 3.6T tokens(~2023/8)   | 1024~8192    | 8K~32K                 | close      | 2023/5/10    |
-|            | Gemma              | 2B, 7B                     | Transformer         | 2T, 6T tokens        | ?            | 8K                     | open source | 2024/2/21 |
+|            | Gemma              | 2B, 7B                     | Transformer         | 2T, 6T tokens       | ?            | 8K                     | open source | 2024/2/21 |
+|            | Gemma 2            | 9B, 27B                   | ?                    | 8T, 13T tokens      | ?            | 8,192                  | open source | 2024/06/27
 |            | Gemini 1.0         | Nano1(1.8B), Nano2(3.3B), Pro, Ultra | Transformer | ?                 | 2,048        | 8K                     | close      | 2024/2/8    |
 |            | Gemini 1.5         | Pro                        | MoE                 | ?                    | 8,192        | 128k~1m                | close      | 2024/2/15   |
 | Anthropic  | Claude 2.1         | 200B                       | Evolved Transformer | ? (~2023/Early)     | 4,096        | 200K                   | close      | 2023/11/21  |
