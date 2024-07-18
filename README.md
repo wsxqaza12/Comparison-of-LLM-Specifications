@@ -42,7 +42,9 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |Cohere      | Command R+         | 104B                       | Dense                   | ?                       | ?            | 128K                     | open source | 2024/4/4   |
 |Microsoft   | Phi-3              | Mini(3.8B), Small(7B), Medium(14B)   | Dense    | 3.3T                    | ?            | 4K, 128K                 | open source | 2024/4/24   |
 |            | Phi-3-vision       | 4.2B                       |                    | 500B                    | ?            | 128K                 | open source | 2024/5/21   |
-|Alibaba Cloud | Qwen2            | 0.5B, 1.5B, 7B, 57B-A14B, 72B | Dense, MoE(57B-A14B) | 
+|Alibaba Cloud | Qwen2            | 0.5B, 1.5B, 7B, 57B-A14B, 72B | Dense, MoE(57B-A14B) |                    |              |                      | open source | 2024/6/7/
+
+
 # Details and Rumor sources
 ### OpenAI
 - **GPT-3.5**
