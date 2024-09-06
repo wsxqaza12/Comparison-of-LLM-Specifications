@@ -37,7 +37,7 @@ Your insights and updates are crucial to the resource's vitality. We invite you 
 |            | Mistral            | Medium, Large              | ?                   | ?                    | ?            | 32k                    | close       | 2024/2/26   |
 |            | Mistral 8x22B      | 141B(use 39B)              | SMoE (8 experts)    | ?                    | ?            | 64k                    | open source | 2024/4/10   |
 |xAI         | Grok-1             | 314B                       | MoE (8 experts)     | ?                    | ?            | 8k                     | open source | 2024/3/17   |
-|            | Grok-2             | 
+|            | Grok-2             | Grok-2 and Grok-2 mini     |                     |                      |              |                        | open source | 2024/8/13   |
 |Apple       | MM1                | 3B, 7B, 30B                | MoE (3B:64 experts, 7B-32 experts)     | ? (Have quantity) | ?            | ?                     | close | 2024/3/18   |
 |            | OpenELM            | 270M, 450M, 1B, 3B         | Transformer         | ?                    | ?            | ?                      | open source | 2024/4/25   |
 |Snowflake   | Arctic             | 480B(use 17B)              | Dense-MoE (128 experts) | 3.5T                    | ?            | 4k                     | open source | 2024/4/25   |
